@@ -1,2 +1,3 @@
-# gan_generative_adversarial_networks_gerador
+GAN (Generative Adversarial Networks)
 Implementando gerador de dígitos fake utilizando GANs (Redes Adversárias Generativas)
+Diego Hartwig - 2024
